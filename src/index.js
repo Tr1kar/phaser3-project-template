@@ -30,3 +30,5 @@ function create() {
     loop: -1
   });
 }
+
+console.log("Hello world")
